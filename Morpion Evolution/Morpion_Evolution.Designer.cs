@@ -39,9 +39,10 @@
             this.cmdRestart.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdRestart.Font = new System.Drawing.Font("Segoe Print", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmdRestart.ForeColor = System.Drawing.Color.DimGray;
-            this.cmdRestart.Location = new System.Drawing.Point(158, 495);
+            this.cmdRestart.Location = new System.Drawing.Point(211, 609);
+            this.cmdRestart.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cmdRestart.Name = "cmdRestart";
-            this.cmdRestart.Size = new System.Drawing.Size(132, 43);
+            this.cmdRestart.Size = new System.Drawing.Size(176, 53);
             this.cmdRestart.TabIndex = 10;
             this.cmdRestart.Tag = 82;
             this.cmdRestart.Text = "Restart";
@@ -55,29 +56,31 @@
             this.lblJoueur.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.lblJoueur.Font = new System.Drawing.Font("Segoe Print", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblJoueur.ForeColor = System.Drawing.Color.Red;
-            this.lblJoueur.Location = new System.Drawing.Point(100, 445);
+            this.lblJoueur.Location = new System.Drawing.Point(133, 548);
+            this.lblJoueur.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblJoueur.Name = "lblJoueur";
-            this.lblJoueur.Size = new System.Drawing.Size(259, 36);
+            this.lblJoueur.Size = new System.Drawing.Size(323, 47);
             this.lblJoueur.TabIndex = 11;
             this.lblJoueur.Text = "1st player\'s turn ( X )";
             // 
             // Morpion_Evolution
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkGray;
             this.BackgroundImage = global::Morpion_Evolution.Properties.Resources.FE;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(448, 550);
+            this.ClientSize = new System.Drawing.Size(597, 677);
             this.Controls.Add(this.lblJoueur);
             this.Controls.Add(this.cmdRestart);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Morpion_Evolution";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Morpion Evolution";
+            this.Text = "Ultimate Tic Tac Toe";
             this.Load += new System.EventHandler(this.Morpion_Evolution_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

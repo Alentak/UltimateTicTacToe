@@ -29,3 +29,12 @@ E:\Paul\Pazard\SaveUSB18052018\Projets\WFC#\Morpion Evolution\Morpion Evolution\
 E:\Paul\Pazard\SaveUSB18052018\Projets\WFC#\Morpion Evolution\Morpion Evolution\obj\Debug\Morpion Evolution.csproj.CoreCompileInputs.cache
 E:\Paul\Pazard\SaveUSB18052018\Projets\WFC#\Morpion Evolution\Morpion Evolution\obj\Debug\Morpion Evolution.exe
 E:\Paul\Pazard\SaveUSB18052018\Projets\WFC#\Morpion Evolution\Morpion Evolution\obj\Debug\Morpion Evolution.pdb
+D:\Documents\GitHub\UltimateTicTacToe\Morpion Evolution\bin\Debug\Morpion Evolution.exe.config
+D:\Documents\GitHub\UltimateTicTacToe\Morpion Evolution\bin\Debug\Morpion Evolution.exe
+D:\Documents\GitHub\UltimateTicTacToe\Morpion Evolution\bin\Debug\Morpion Evolution.pdb
+D:\Documents\GitHub\UltimateTicTacToe\Morpion Evolution\obj\Debug\Morpion Evolution.csprojAssemblyReference.cache
+D:\Documents\GitHub\UltimateTicTacToe\Morpion Evolution\obj\Debug\Morpion_Evolution.Morpion_Evolution.resources
+D:\Documents\GitHub\UltimateTicTacToe\Morpion Evolution\obj\Debug\Morpion_Evolution.Properties.Resources.resources
+D:\Documents\GitHub\UltimateTicTacToe\Morpion Evolution\obj\Debug\Morpion Evolution.csproj.GenerateResource.cache
+D:\Documents\GitHub\UltimateTicTacToe\Morpion Evolution\obj\Debug\Morpion Evolution.exe
+D:\Documents\GitHub\UltimateTicTacToe\Morpion Evolution\obj\Debug\Morpion Evolution.pdb
